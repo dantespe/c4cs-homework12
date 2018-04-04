@@ -1,0 +1,8 @@
+# Caen
+Host caen 
+  HostName login.engin.umich.edu
+  User dantespe
+  IdentityFile ~/.ssh/id_rsa
+
+# Work
+#
